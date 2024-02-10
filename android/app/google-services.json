@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "955795739236",
+    "project_id": "tractor-hiring-74be6",
+    "storage_bucket": "tractor-hiring-74be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955795739236:android:a2ea936f2a583e8af10571",
+        "android_client_info": {
+          "package_name": "com.example.tractor_hiring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955795739236-tur7j879mrsuti0fduacerghfs4a7edo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tractor_hiring_app",
+            "certificate_hash": "fe2d0ffc01b3589c0d4548d3cb998b5796ea0b0a"
+          }
+        },
+        {
+          "client_id": "955795739236-cfind8j5onqol5cm5kiqvn8g6qa65q1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBon2tiLfIzkz4ZMJDdJlu3P0lhxN7Ft7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955795739236-cfind8j5onqol5cm5kiqvn8g6qa65q1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955795739236-qtohfei9j3o6ajhvht0l5snn4mvhvusr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tractorHiringApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

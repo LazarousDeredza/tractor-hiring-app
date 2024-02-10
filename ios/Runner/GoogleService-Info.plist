@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>955795739236-qtohfei9j3o6ajhvht0l5snn4mvhvusr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.955795739236-qtohfei9j3o6ajhvht0l5snn4mvhvusr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>955795739236-lahj5kva5dobldqg353423k3164u4f3u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnWNpdtMJCEWi3c2d3tQOqXSv_5YqIl5s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>955795739236</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tractorHiringApp</string>
+	<key>PROJECT_ID</key>
+	<string>tractor-hiring-74be6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tractor-hiring-74be6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:955795739236:ios:9cfcf51d6149cb00f10571</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+
+Email : geraldnhando440@gmail.com
+Email password : tractorhiring123
+
+Paynow
+https://developers.paynow.co.zw/docs/integration_generation.html
+
+Payment Link: lazarousderedza99@gmail.com
+Integration ID: 17003
+Integration Key: ffa05013-9376-496f-aa51-524d6ae11351
+
+
+Sh fingerprints (Dedug)
+
+sha1 : 69:BA:A0:93:EF:4A:BC:E6:4D:AF:18:B8:4D:3D:1C:05:61:09:E3:18
+sha2 : 57:71:59:2B:25:23:F5:E9:B2:98:5B:2F:D5:0C:D2:87:24:EC:C9:5C:7A:36:AA:4D:BB:E9:C3:08:9D:EF:3E:9B
+
+
+Sh fingerprints (Release)
+
+SHA1: FE:2D:0F:FC:01:B3:58:9C:0D:45:48:D3:CB:99:8B:57:96:EA:0B:0A
+SHA-256: BA:1B:C9:2A:05:69:AD:55:F1:4F:97:9D:B6:F0:3F:D0:47:9E:18:68:8C:8B:E3:CD:02:74:30:28:27:9E:57:52
